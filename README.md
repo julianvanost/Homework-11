@@ -3,11 +3,11 @@
 
 
 __Boot Camp Homework 11 - Note Taker__
-
+#### Functional Heroku Deployment: <https://morning-mesa-24758.herokuapp.com/>
 ---
 
 __Installation:__
-Deploy and run server.js
+Run SQL Schemas, seed your DB. Then ```node intall``` then ```node server.js```
 
 __Usage:__
 Load the "/" page and begin!
@@ -22,4 +22,3 @@ __Questions:__
 None
 
 _Creted with luv by Julian Van Ost_
-![Full Heroku Deployment] (https://morning-mesa-24758.herokuapp.com/)
