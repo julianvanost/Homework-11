@@ -68,8 +68,11 @@ body {
 }
 .fa,
 .fas {
+  font-size: 2rem;
+  margin-left: 3rem;
+  margin-right: 2rem;
   font-weight: 900;
-  font-size: x-large;
+  float: right;
 }
 .marginImg {
   margin-right: 1rem;
