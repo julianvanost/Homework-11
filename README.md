@@ -10,7 +10,7 @@ __Installation:__
 Run SQL Schemas, seed your DB. Then ```node intall``` then ```node server.js```
 
 __Usage:__
-Load the "/" page and begin!
+Load <https://morning-mesa-24758.herokuapp.com/> and begin, or clone and deploy for yourself.
 
 __Contributors:__
 None
